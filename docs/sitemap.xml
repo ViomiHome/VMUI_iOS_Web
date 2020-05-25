@@ -1,113 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/</loc>
-     <lastmod>2019-12-24</lastmod>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/Colors/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/Colors/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/Buttons/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/Buttons/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/NavBar/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/NavBar/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/Tabs/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/Tabs/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/NoticeBar/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/NoticeBar/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/TabBar/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/TabBar/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/Segment/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/Segment/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/Dialog/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/Dialog/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/TextDialog/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/TextDialog/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/Picker/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/Picker/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/MultiPicker/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/MultiPicker/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/LocationPicker/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/LocationPicker/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/DatePicker/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/DatePicker/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/Popup/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/Popup/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/ActionSheet/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/ActionSheet/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/ShareSheet/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/ShareSheet/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/Toast/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/Toast/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/SearchBar/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/SearchBar/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/EmptyPage/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/EmptyPage/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/LoadingPage/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/LoadingPage/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://viomihome.github.io/VMUI_Android_Web/ItemView/</loc>
-     <lastmod>2019-12-24</lastmod>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/ItemView/</loc>
+     <lastmod>2020-05-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios/InputItem/</loc>
+     <lastmod>2020-05-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
