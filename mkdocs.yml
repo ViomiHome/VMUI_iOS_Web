@@ -1,0 +1,53 @@
+site_name: VMUI iOS（云米UI组件库）
+site_description: 'VMUI iOS'
+site_author: 'VIOMI'
+site_url: 'https://gitlab.viomi.com.cn/app/iOS/viomi_uikit_ios'
+repo_name: 'VMUI iOS'
+repo_url: 'https://github.com/ViomiHome/VMUI_iOS_Web'
+copyright: 'Copyright © 2019 Viomi. All rights reserved.'
+site_dir: docs
+docs_dir: source
+theme:
+  name: 'material'
+  include_search_page: false
+  search_index_only: true
+  palette:
+    primary: 'Cyan'
+    accent: 'Cyan'
+  logo: 'images/logo.svg'
+  favicon: 'images/favicon-32x32-next.png'
+  font:
+    text: Roboto
+    code: Roboto Mono
+  language: zh
+  direction: ltr
+  feature:
+    tabs: true
+
+pages:
+ - VMUI:
+    - 使用指引: index.md
+    - Colors: Colors.md
+    - Buttons: Buttons.md
+    - NavBar: NavBar.md
+    - Tabs: Tabs.md
+    - NoticeBar: NoticeBar.md
+    - TabBar: TabBar.md
+    - Segment: Segment.md
+    - Dialog: Dialog.md
+    - TextDialog: TextDialog.md
+    - Picker: Picker.md
+    - MultiPicker: MultiPicker.md
+    - LocationPicker: LocationPicker.md
+    - DatePicker: DatePicker.md
+    - Popup: Popup.md
+    - ActionSheet: ActionSheet.md
+    - ShareSheet: ShareSheet.md
+    - Toast: Toast.md
+    - SearchBar: SearchBar.md
+    - EmptyPage: EmptyPage.md
+    - LoadingPage: LoadingPage.md
+    - ItemView: ItemView.md
+    - InputItem: InputItem.md
+    
+    
